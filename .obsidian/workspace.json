@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "40ee267c557868db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a890562d43c4d77b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41c23b661d75cb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b977b9c2f84fffe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee23388748a39de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796b777873e60773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "074f6e5a21d96234",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f5009710bb18df0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b791605ee781a987",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbc99d23b700ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e07a56b97f07c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b68741b77a3e79eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d47f75c1ec813d26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "915e17cb29382d81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "796b777873e60773",
+  "lastOpenFiles": [
+    "read/如何阅读一本书.md",
+    "read/打开心智.md",
+    "read/大纲.md",
+    "read/简单的逻辑学.md",
+    "read/认知觉醒.md",
+    "read/被讨厌的勇气.md",
+    "read/逆向思维.md",
+    "阅读体系.md",
+    "111.md",
+    "read",
+    "read"
+  ]
+}
