@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a890562d43c4d77b",
+        "id": "e9e27d8fb75de426",
         "type": "tabs",
         "children": [
           {
-            "id": "c41c23b661d75cb3",
+            "id": "b9df805258a194ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,12 +121,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f1d750f65bdd961e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,14 +147,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "796b777873e60773",
+  "active": "f1d750f65bdd961e",
   "lastOpenFiles": [
-    "read/如何阅读一本书.md",
-    "read/打开心智.md",
-    "read/大纲.md",
+    "read/精力管理.md",
+    "read/他言.md",
     "read/简单的逻辑学.md",
-    "read/认知觉醒.md",
+    "read/大纲.md",
+    "read/打开心智.md",
     "read/被讨厌的勇气.md",
+    "read/如何阅读一本书.md",
+    "read/认知觉醒.md",
     "read/逆向思维.md",
     "阅读体系.md",
     "111.md",
